@@ -40,7 +40,7 @@
 ";"                     {return SEMICOLON;}
 "("                     {return LPAREN;}
 ")"                     {return RPAREN;}
-[ \t]+                  {} /* skip over whitespace */
+[ \t]+                  {} /* skips over whitespace */
 \n                      {return NEWLINE;}
 .                       {return INVALID;}
 %%
