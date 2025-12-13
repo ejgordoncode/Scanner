@@ -1,3 +1,6 @@
+# Author: EJ Gordon, 2025
+
+
 # Makefile for Scanner Project
 # Compiles flex, bison, and C++ files into executable ("scanner")
 

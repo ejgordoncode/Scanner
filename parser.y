@@ -1,5 +1,5 @@
 /* File purpose: define token types */
-
+/* Author: EJ Gordon, 2025 */
 
 /* Section One: C code declarations, includes */
 %{

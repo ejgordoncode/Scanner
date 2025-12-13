@@ -1,3 +1,5 @@
+/* Author: EJ Gordon, 2025*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
